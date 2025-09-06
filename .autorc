@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "E-square247",
+  "repo": "container-stxmw8i",
+  "name": "E-square247",
+  "email": "askduncanjo@gmail.com",
+}
